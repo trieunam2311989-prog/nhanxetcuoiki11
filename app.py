@@ -106,7 +106,7 @@ def process_ai_response_unique(content, target_level, needed_count):
 st.markdown("""
 <div class="header-box">
     <h1>💎 TRỢ LÝ NHẬN XÉT TIỂU HỌC TT27</h1>
-    <p>Tác giả: Lù Seo Sần - Trường PTDTBT TH Bản Ngò</p>
+    <p>Tác giả: Triệu Xuân Năm - Trường PTDTBT TH Sủng Cháng</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -257,4 +257,4 @@ if student_file:
             st.error(f"Lỗi xử lý: {e}")
 
 # --- FOOTER ---
-st.markdown("<div style='text-align:center; margin-top:50px; color:#888;'>© 2026 - Thầy Sần Tool</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align:center; margin-top:50px; color:#888;'>© 2026 - Thầy Năm Tool</div>", unsafe_allow_html=True)
